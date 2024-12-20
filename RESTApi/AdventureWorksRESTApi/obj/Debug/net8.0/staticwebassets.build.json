@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dPo7eFZm7LoRekoyAfG4YHlvaHzk1uS5y/ykFY6TiVA=",
+  "Source": "AdventureWorksRESTApi",
+  "BasePath": "_content/AdventureWorksRESTApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

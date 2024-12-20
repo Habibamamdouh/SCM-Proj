@@ -1,0 +1,6 @@
+@AdventureWorksRESTApi_HostAddress = http://localhost:5008
+
+GET {{AdventureWorksRESTApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
